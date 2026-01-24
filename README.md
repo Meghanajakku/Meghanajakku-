@@ -1,19 +1,23 @@
 ## Hi, I'm Meghana 
 
-🎓 Computer Science Student  
-💻 Aspiring Associate WordPress Engineer  
-🌱 Currently learning WordPress, PHP & Open-Source Development  
+🎓 B.Tech CSE (Data Science) Student (2026)
+🧪 Aspiring Software Quality Engineer / QA Engineer
+🐍 Python | Java | Manual Testing | Selenium Basics
+🔁 Understanding of CI/CD Concepts
 
 ### Skills
-- PHP
-- JavaScript
-- HTML, CSS
-- MySQL
-- Git & GitHub
+• Python
+• Java
+• Manual Testing
+• Test Case Writing
+• Bug Reporting
+• Selenium Basics
+• Git & GitHub
 
-### Open-Source
-- Actively contributing to WordPress plugins
-- Learning WordPress coding standards
+### Quality & Testing Practice
+- Writing manual test cases and documenting test scenarios
+- Identifying and reporting bugs during project validation
+- Learning software testing workflows and QA best practices
 
 ### Projects
 - Travel Itinerary Generator Using AI
